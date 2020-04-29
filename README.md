@@ -1,5 +1,5 @@
 # Title <!-- Replace 'Title' and this comment with a title or name of your algorithm -->
-Description <!-- Replace this entire line with a short description of your algorithm -->
+Calculates greennedd<!-- Replace this entire line with a short description of your algorithm -->
 
 ## Authors
 <!-- Replace this comment with a list of the authors of the algorithm pointing out who the main contacts are -->
